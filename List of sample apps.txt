@@ -1,0 +1,44 @@
+برای ایجاد یک مجموعه‌ی آماده از اپلیکیشن‌های Django که با استفاده از Django REST Framework (DRF) پیاده‌سازی شده‌اند، می‌توانید اپلیکیشن‌های مختلفی را برای وظایف معمول و متداول وب‌سایت‌ها و برنامه‌های تحت وب ایجاد کنید. در زیر فهرستی از ۲۰ اپلیکیشن که می‌توانند به صورت جداگانه ساخته شوند و در پروژه‌های مختلف استفاده شوند، آورده شده است:
+
+احراز هویت و مدیریت کاربران (Authentication & User Management)
+
+احراز هویت (Authentication)
+مدیریت پروفایل کاربران (User Profile Management)
+مدیریت مجوزها (Permissions Management)
+بازنشانی رمز عبور (Password Reset)
+مدیریت محتوا (Content Management)
+
+مقالات و بلاگ (Blog & Articles)
+مدیریت صفحات (Page Management)
+سیستم کامنت (Comment System)
+دسته‌بندی‌ها و برچسب‌ها (Categories & Tags)
+فروشگاه آنلاین (E-commerce)
+
+محصولات (Products)
+سفارشات (Orders)
+سبد خرید (Shopping Cart)
+پرداخت‌ها (Payments)
+کوپن‌ها و تخفیف‌ها (Coupons & Discounts)
+شبکه‌های اجتماعی (Social Network)
+
+پروفایل‌های کاربران (User Profiles)
+پیام‌ها و مکالمات (Messages & Conversations)
+پست‌ها و فعالیت‌ها (Posts & Activities)
+دنبال‌کردن و دوستان (Followers & Friends)
+ابزارهای همکاری و مدیریت پروژه (Collaboration & Project Management)
+
+وظایف و پروژه‌ها (Tasks & Projects)
+مدیریت اسناد (Document Management)
+بحث و گفتگو (Discussion Forum)
+تقویم و رویدادها (Calendar & Events)
+ابزارهای عمومی و پشتیبانی (General Utilities & Support)
+
+مدیریت فایل‌ها و رسانه‌ها (File & Media Management)
+ارسال ایمیل و اعلان‌ها (Email & Notifications)
+فرم‌های دینامیک (Dynamic Forms)
+سیستم گزارش‌دهی و تحلیل (Reporting & Analytics)
+سیستم های پرسش و پاسخ (Q&A)
+
+سوالات و پاسخ‌ها (Questions & Answers)
+امتیازات و رتبه‌بندی‌ها (Votes & Ratings)
+با داشتن این مجموعه از اپلیکیشن‌ها، می‌توانید به سرعت و با کمترین تلاش بک‌اند هر سایتی را به طور API بسازید و آنها را در پروژه‌های مختلف مورد استفاده قرار دهید.
