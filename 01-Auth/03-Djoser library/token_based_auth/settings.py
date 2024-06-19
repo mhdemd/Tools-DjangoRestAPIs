@@ -148,7 +148,7 @@ DJOSER = {
 
     'SEND_ACTIVATION_EMAIL': True,
     'ACTIVATION_URL': 'password/reset/confirm/{uid}/{token}',
-    
+
     'USER_CREATE_PASSWORD_RETYPE': True,
     'SET_PASSWORD_RETYPE': True,
     'SERIALIZERS': {
@@ -162,7 +162,6 @@ DJOSER = {
     'LOGOUT_ON_PASSWORD_CHANGE': True,
     'PASSWORD_RESET_TIMEOUT_DAYS': 3,
 
-    
 }
 
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'  # Show email message on terminal

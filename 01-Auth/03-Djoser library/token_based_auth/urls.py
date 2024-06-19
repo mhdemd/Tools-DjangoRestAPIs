@@ -5,6 +5,7 @@ from djoser import urls
 urlpatterns = [
     path('grappelli/', include('grappelli.urls')),  # A jazzy skin for the Django admin interface 
     path('admin/', admin.site.urls),
+    path('api/', include('myapp.urls')),
     path('auth/', include('djoser.urls')),
     path('auth/', include('djoser.urls.authtoken')),
 ]
