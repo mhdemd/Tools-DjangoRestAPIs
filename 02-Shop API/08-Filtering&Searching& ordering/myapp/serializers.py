@@ -22,6 +22,7 @@ class ProductSerializer(serializers.ModelSerializer):
             'slug',
             'name',
             'description',
+            'price',
             'category',
             'category_id',
         ]
