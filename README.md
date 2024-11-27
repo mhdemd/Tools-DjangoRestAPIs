@@ -43,12 +43,12 @@ The project consists of several sub-projects, each dedicated to a specific area 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/mhdemd/Tools-APIs.git
+git clone https://github.com/mhdemd/Django-REST-APIs-Reference.git
 ```
 
 ### 2. Navigate to the project directory
 ```bash
-cd path/to/your/application
+cd Django-REST-APIs-Reference/path/to/your/application
 ```
 
 ### 3.Create and activate a virtual environment (optional but recommended)
