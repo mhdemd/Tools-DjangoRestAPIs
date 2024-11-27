@@ -38,7 +38,6 @@ The project consists of several sub-projects, each dedicated to a specific area 
 - Python 3.x
 - Django 3.x or later
 - Django Rest Framework (DRF)
-- (Add any other dependencies your project requires)
 
 ## Installation
 
